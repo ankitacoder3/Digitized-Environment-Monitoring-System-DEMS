@@ -6,8 +6,8 @@
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
 <li> Prerequisites and Techstack</li>
-<li> Steps for execution</li>
-<li> Usage</li>
+<li> Cicuit diagram</li>
+<li> Screenshots of the output</li>
 </details>
 </br>
 
@@ -59,87 +59,45 @@
 
 ## Circuit Diagram
 
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
+
+## Screenshots of output
+
+
+<!-- - Serial Monitor (arduino code):
+
+- Serial Monitor (NODEMCU ESP8266_01):-->
+
+ 
+- Working- circuit:
 
  
 
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SCREEN SHOTS OF THE OUTPUT
-
-
-Serial Monitor (arduino code):
+- Working- circuit and ThingSpeak:
 
  
 
 
-Serial Monitor (NODEMCU ESP8266_01):
-
- 
-Working- circuit:
+- Working-compilation: 
 
  
 
+- ThingSpeak plots: 
 
-Working- circuit and ThingSpeak:
+ 
+    -Temperature (ThinkSpeak Visualization):
 
  
 
-
-Working-compilation: 
-
- 
-
-ThingSpeak plots: 
-
- 
-Temperature (ThinkSpeak Visualization):
-
- 
-
-Humidity (ThinkSpeak Visualization):
+    -Humidity (ThinkSpeak Visualization):
 
   
-Dust Density (ThinkSpeak Visualization):
+    -Dust Density (ThinkSpeak Visualization):
 
  
 
-Light Intensity (ThinkSpeak Visualization):
+     -Light Intensity (ThinkSpeak Visualization):
 
  
-
-
-REFERENCES
-
-o	https://www.homemade-circuits.com/mini-weather-station-using-arduino/
-o	https://create.arduino.cc/projecthub/nikhileswari/light-sensor-using-arduino-07cd9c
-o	https://arduinogetstarted.com/tutorials/arduino-light-sensor
-o	https://create.arduino.cc/projecthub/igorF2/arduino-uno-mini-weather-station-31b555?ref=tag&ref_id=sensor&offset=6
-o	https://roboindia.com/tutorials/nodemcu-dht11-thingspeak-data-upload/ 
-o	https://lastminuteengineers.com/bmp180-arduino-tutorial/

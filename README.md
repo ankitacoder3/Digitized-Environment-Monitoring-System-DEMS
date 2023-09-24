@@ -5,20 +5,15 @@
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
+  <li> Prerequisites and Techstack</li>
 <li> DEMS Working Details </li>
-<li> Prerequisites and Techstack</li>
+
 <li> Circuit</li>
 <li> Screenshots of output</li>
 <li>References</li>
 </details>
 </br>
 
-![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0913bfe5-2c7b-473e-a7da-ddb9aa8f0dac)
-
-
-
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br>
   
 ## Introduction
  
@@ -27,6 +22,26 @@
 
 -	The Arduino based Digitized Environment Monitoring System, can show you ambient temperature, humidity, pressure, dust density, light intensity, altitude and much more data from your surroundings.
 - These observations can be used to predict weather from home or any other place at your convenience.
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
+
+
+## Prerequisites and Techstack
+
+- Software and Programming languages used:
+  - Arduino IDE
+  - ThingSpeak platform
+  - C
+  - C++
+    
+- Prerequisites or Hardware used:
+  - Arduino
+  - Temperature & Humidity sensor (DHT22)
+  - Barometric sensor (BMP180)
+  - Dust sensor (GP2Y1010AU0F)
+  - Light sensor (LDR)
+  - Wi-Fi module (ESP8266 NODEMCU)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
@@ -64,24 +79,6 @@
   </br>
 
 
-## Prerequisites and Techstack
-
-- Software and Programming languages used:
-  - Arduino IDE
-  - ThingSpeak platform
-  - C
-  - C++
-    
-- Prerequisites or Hardware used:
-  - Arduino
-  - Temperature & Humidity sensor (DHT22)
-  - Barometric sensor (BMP180)
-  - Dust sensor (GP2Y1010AU0F)
-  - Light sensor (LDR)
-  - Wi-Fi module (ESP8266 NODEMCU)
-
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br>
 
 ## Circuit Diagram
 

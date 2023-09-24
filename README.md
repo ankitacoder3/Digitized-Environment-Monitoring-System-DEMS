@@ -5,19 +5,29 @@
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
+<li>DEMS Working Details </li>
 <li> Prerequisites and Techstack</li>
-<li> Cicuit diagram</li>
-<li> Screenshots of the output</li>
+<li> Steps for execution</li>
+<li> Usage</li>
 </details>
 </br>
 
 ## Introduction
  
--	Environment monitoring systems are used to garner data and provide weather information of a certain area. It is mainly used to measure and forecast weather conditions.
+-	Environment monitoring systems are used to garner data and provide weather information of a certain area.
+-	It is mainly used to measure and forecast weather conditions.
 
--	The Arduino based Digitized Environment Monitoring System, can show you ambient temperature, humidity, pressure, dust density, light intensity, altitude and much more data from your surroundings, which can be used to predict weather from home or any other place at your convenience.
+-	The Arduino based Digitized Environment Monitoring System, can show you ambient temperature, humidity, pressure, dust density, light intensity, altitude and much more data from your surroundings.
+- These observations can be used to predict weather from home or any other place at your convenience.
 
--	This project, DEMS, is built around Arduino, which is called the brain of the weather station which collects and processes lots of data from various sensors and uses the WIFI module (ESP8266 NODEMCU) to post it on the ThingSpeak platform for visualization.
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
+
+## DEMS Working Details
+
+-	DEMS is built around Arduino, which is called the brain of the weather station.
+-	It collects and processes huge amount of data from various sensors.
+-	Finally, it uses the WIFI module (ESP8266 NODEMCU) to post it on the ThingSpeak platform for visualization.
 
 -	The best part of this project is that with the help of ThingSpeak platform we can visualize the weather related data in any browser.
 
@@ -39,7 +49,8 @@
 
 -	The data obtained from the Arduino board is sent to the ESP8266 NODEMCU through serial communication, which is then passed on to ThingSpeak via Wi-Fi. 
 
--	For Wi-Fi networking we use a Wi-Fi module (ESP8266 NODEMCU) which connects to internet to fetch or upload data. Using this module we transfer the data to ThingSpeak platform for convenient and easier visualization.
+-	For Wi-Fi networking we use a Wi-Fi module (ESP8266 NODEMCU) which connects to internet to fetch or upload data.
+-	Using this module we transfer the data to ThingSpeak platform for convenient and easier visualization.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
@@ -47,14 +58,22 @@
 
 ## Prerequisites and Techstack
 
-- C
-- C++
-- Prerequisites: Arduino, Temperature & Humidity sensor (DHT22),	Barometric sensor (BMP180), Dust sensor (GP2Y1010AU0F),	Light sensor (LDR).
+- Software and Programming languages used:
+  - Arduino IDE
+  - ThingSpeak platform
+  - C
+  - C++
+    
+- Prerequisites or Hardware used:
+  - Arduino
+  - Temperature & Humidity sensor (DHT22)
+  - Barometric sensor (BMP180)
+  - Dust sensor (GP2Y1010AU0F)
+  - Light sensor (LDR)
+  - Wi-Fi module (ESP8266 NODEMCU)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
-
-
 
 
 ## Circuit Diagram

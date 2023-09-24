@@ -3,11 +3,11 @@
 # Digitized-Environment-Monitoring-System-DEMS
 ```DEMS```, also termed as ```'Digitized-Environment-Monitoring-System'```, is an Arduino-based project.
 
-```DEMS``` aids to monitor the environment, by gathering```realtime-data``` from the ```Arduino``` and various ```sensors```, like Temperature & Humidity sensor,Barometric sensor, etc.
+```DEMS``` aids to monitor the environment, by gathering ```realtime-data``` from the ```Arduino``` and various ```sensors```, like Temperature & Humidity sensor,Barometric sensor, etc.
 
 ```DEMS``` also generates ```plots``` based on the various ```Environment conditions``` or parameters, like Temperature, Pressure, etc. These plots can be used for further analysis and predictions.
 
-
+<br>
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>

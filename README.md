@@ -41,17 +41,17 @@
 
 -	The circuit consists of ‘Four sensors’:
 
- 1.	Temperature & Humidity sensor (DHT22):
- It is a 4-pin sensor, which senses temperature and humidity from the surroundings and passes it to the Arduino.
+     1.	Temperature & Humidity sensor (DHT22):
+     It is a 4-pin sensor, which senses temperature and humidity from the surroundings and passes it to the Arduino.
 
- 2.	Barometric sensor (BMP180): 
-  It measures atmospheric pressure, altitude and temperature (we neglect temperature measurement from this sensor as we have a dedicated sensor for measuring ambient temperature).
+     2.	Barometric sensor (BMP180): 
+      It measures atmospheric pressure, altitude and temperature (we neglect temperature measurement from this sensor as we have a dedicated sensor for measuring ambient temperature).
 
- 3.	Dust sensor (GP2Y1010AU0F):
- It is an air monitoring module which monitors the air quality and detects fine particles like dust (particle larger than 0.8micrometer).
+     3.	Dust sensor (GP2Y1010AU0F):
+     It is an air monitoring module which monitors the air quality and detects fine particles like dust (particle larger than 0.8micrometer).
 
- 4.	Light sensor (LDR): 
- This 3-pin LDR  sensor detects ambient brightness & light intensity .
+     4.	Light sensor (LDR): 
+     This 3-pin LDR  sensor detects ambient brightness & light intensity .
 
 -	The above mentioned sensors collect relevant data and passes it to the Arduino.
 

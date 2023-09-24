@@ -22,11 +22,16 @@
   
 ## Introduction
  
--	Environment monitoring systems are used to garner data and provide weather information of a certain area.
--	It is mainly used to measure and forecast weather conditions.
+-	Environment monitoring systems are used to garner data and provide weather information of a certain area.	It is mainly used to measure and forecast weather conditions.
 
--	The Arduino based Digitized Environment Monitoring System, can show you ambient temperature, humidity, pressure, dust density, light intensity, altitude and much more data from your surroundings.
-- These observations can be used to predict weather from home or any other place at your convenience.
+-	The Arduino based Digitized Environment Monitoring System, can show you ambient temperature, humidity, pressure, dust density, light intensity, altitude and much more data from your surroundings. These observations can be used to predict weather from home or any other place at your convenience.
+
+
+- The project DEMS has 2 files:
+    1. ```DEMS.ino``` : This is contains the ```Arduino Code```.
+    2. ```DEMS_NODEMCU.ino``` : This is contains the code for the ```Wi-fi``` module, ```ESP8266 NODEMCU```.
+
+- Furthermore, the project DEMS, also uses many sensors. The working of these are provided below, under the ```DEMS Working Details``` section.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>

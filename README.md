@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
 
 # Digitized-Environment-Monitoring-System-DEMS
+- DEMS, also termed as 'Digitized-Environment-Monitoring-System', is an Arduino based project.
+- DEMS helps to monitor the environment, by collecting data from Arduino and various sensors, like Temperature & Humidity sensor,Barometric sensor, etc.
+- These collected observations can be used for further tasks like predicting environment conditions in the future, etc.
 
 <details>
   <summary color= blue >Table of Contents</summary>
@@ -10,7 +13,6 @@
 
 <li> Circuit</li>
 <li> Screenshots of output</li>
-<li>References</li>
 </details>
 </br>
 
@@ -42,6 +44,20 @@
   - Dust sensor (GP2Y1010AU0F)
   - Light sensor (LDR)
   - Wi-Fi module (ESP8266 NODEMCU)
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
+
+  
+
+## Circuit Diagram
+
+- Working-circuit
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0913bfe5-2c7b-473e-a7da-ddb9aa8f0dac)
+
+- Diagram
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/f8b9cc13-78a8-42cb-992b-3619c31b0272)
+
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
@@ -79,19 +95,6 @@
   </br>
 
 
-
-## Circuit Diagram
-
-- Diagram
-  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/f8b9cc13-78a8-42cb-992b-3619c31b0272)
-
-
-- Working-circuit
-  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0913bfe5-2c7b-473e-a7da-ddb9aa8f0dac)
-
-
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br>
 
 ## Screenshots of output
 
@@ -158,17 +161,4 @@
  
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
-
-## References
-
--	https://create.arduino.cc/projecthub/nikhileswari/light-sensor-using-arduino-07cd9c
--	https://arduinogetstarted.com/tutorials/arduino-light-sensor
--	https://create.arduino.cc/projecthub/igorF2/arduino-uno-mini-31b555?ref=tag&ref_id=sensor&offset=6
--	https://roboindia.com/tutorials/nodemcu-dht11-thingspeak-data-upload/ 
--	https://lastminuteengineers.com/bmp180-arduino-tutorial/ 
-
-
-  
-   <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br>
-  
+<p> Thank you for exploring the DEMS project. </p>

@@ -2,6 +2,8 @@
 
 # Digitized-Environment-Monitoring-System-DEMS
 
+![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0913bfe5-2c7b-473e-a7da-ddb9aa8f0dac)
+
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
@@ -12,6 +14,9 @@
 </details>
 </br>
 
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
+  
 ## Introduction
  
 -	Environment monitoring systems are used to garner data and provide weather information of a certain area.
@@ -75,8 +80,14 @@
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
 
-
 ## Circuit Diagram
+
+- Diagram
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/f8b9cc13-78a8-42cb-992b-3619c31b0272)
+
+- Working-circuit
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0913bfe5-2c7b-473e-a7da-ddb9aa8f0dac)
+
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
@@ -84,39 +95,55 @@
 ## Screenshots of output
 
 
-<!-- - Serial Monitor (arduino code):
+- Serial Monitor (Arduino code)
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/77b4d5f4-8ba5-4561-9495-8c48ced0ada1)
 
-- Serial Monitor (NODEMCU ESP8266_01):-->
+
+- Serial Monitor (NODEMCU ESP8266_01)
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/ebb8def5-d0a1-42ab-87ef-b3f85aa9f5b8)
+
 
  
-- Working- circuit:
-
- 
-
-
-- Working- circuit and ThingSpeak:
-
- 
-
-
-- Working-compilation: 
+- Working- circuit
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/65f08380-b350-4576-bc25-4da1df15f4bb)
 
  
 
-- ThingSpeak plots: 
+
+- Working- circuit and ThingSpeak
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/a9d97afe-a74b-4b61-90ca-8299b3f60f6f)
 
  
-    -Temperature (ThinkSpeak Visualization):
+
+
+- Working-compilation
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0c4dc23f-ace5-4f0d-b48b-ef8b9ff494d3)
+
 
  
 
-    -Humidity (ThinkSpeak Visualization):
+- ThingSpeak plots
+  ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/8307e495-2eab-4b7e-9bfc-9297c0373aa3)
+
+ 
+    - Temperature (ThinkSpeak Visualization)
+      ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/4b76196f-57bf-4f31-b213-b76ce3ccb89e)
+
+
+ 
+
+    - Humidity (ThinkSpeak Visualization)
+      ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/ad549bbe-e45a-4bac-8a86-80e77b1bacb3)
 
   
-    -Dust Density (ThinkSpeak Visualization):
+    - Dust Density (ThinkSpeak Visualization)
+     ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/0a33b803-f536-46b4-aa30-85e8f23382a5)
 
  
 
-     -Light Intensity (ThinkSpeak Visualization):
+     - Light Intensity (ThinkSpeak Visualization)
+       ![image](https://github.com/ankitacoder3/Digitized-Environment-Monitoring-System-DEMS/assets/73939061/9b7fefdc-354e-4ea8-8d0b-ba2d47b0b996)
 
  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
